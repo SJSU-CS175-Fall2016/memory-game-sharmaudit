@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PokeMemory</string>
+    <string name="PlayButton">Play</string>
+    <string name="RulesButton">Rules</string>
+    <string name="WelcomeMessage">Welcome to PokeMemory</string>
+    <string name="rule1">There will be 20 tiles, each of which have 1 of 10 images.</string>
+    <string name="rule2">Touch a tile to show the hidden image. You can select up to two images at a time.</string>
+    <string name="rule3">If two selected tiles show the same image, both will be removed 1 point will be awarded</string>
+    <string name="rule4">Should both images NOT match, both tiles will be flipped back over.</string>
+    <string name="default_score">Score: 0</string>
+</resources>

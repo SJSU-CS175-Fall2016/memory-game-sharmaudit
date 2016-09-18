@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="5">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="39dp"
+        android:text="@string/app_name"
+        android:textColor="@color/black"
+        android:textSize="20dp"
+        android:textAlignment="center" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/a" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/b" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/c" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/d" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/e" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/f" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/g" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/h" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/i" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/j" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/k" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/l" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/m" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/n" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/o" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/p" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_weight="1">
+
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/q" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/r" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/s" />
+        <ImageView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:src="@drawable/mew"
+            android:layout_weight=".25"
+            android:clickable="true"
+            android:id="@+id/t" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/score"
+        android:clickable="false"
+        android:textColor="@color/black"
+        android:text="@string/default_score"
+        android:textAlignment="center" />
+
+</LinearLayout>
